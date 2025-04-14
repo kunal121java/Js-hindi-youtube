@@ -29,3 +29,12 @@ const myfunction = function(){
 }
 console.log(typeof bignumber);
 
+// ++++++++++++++++++++++++++++++++++++++++
+
+// Stack(Primitive) , Heap (Non - Primitive)
+let myYoutubename = "hiteshcjoudharydotcom"
+
+let anothername = myYoutubename
+
+console.log(anothername);
+
