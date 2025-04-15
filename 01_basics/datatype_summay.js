@@ -11,7 +11,7 @@ const outsideTemp = null
 const id= Symbol('123')
 const anotherId = Symbol('123')
 
-console.log(id===anotherId);
+// console.log(id===anotherId);
 const bignumber = 354535364646535464n
 
 //Array , Object, Function
@@ -32,13 +32,14 @@ console.log(typeof bignumber);
 // ++++++++++++++++++++++++++++++++++++++++
 
 // Stack(Primitive) , Heap (Non - Primitive)
-let myYoutubename = "hiteshcjoudharydotcom"
+let myYoutubename = "kunalpandey.com"
 
-let anothername = myYoutubename
+// let anothername = myYoutubename
+// anothername = "chaiorcode"
+console.log(myYoutubename);
 
-console.log(anothername);
 
 
 
-    
+// console.log(anothername);
 
